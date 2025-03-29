@@ -9,7 +9,6 @@
 
 /* Fondo de la página */
 body {
-    /* background-color: #b6cb9e; */
     background: url(imagenes/fondo.jpg) no-repeat fixed center center / cover; /* Fondo con imagen */
     height: 100vh; /* Altura de la ventana */
     margin: 0; /* Elimina márgenes */
