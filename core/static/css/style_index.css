@@ -10,11 +10,11 @@
 /* Fondo de la página */
 body {
     /* background-color: #b6cb9e; */
-    background: url("/static/image/fondo.jpg") no-repeat fixed center center / cover;
-    height: 100vh;  /* El alto del body es el 100% de la altura de la ventana */
-    margin: 0;  /* Elimina los márgenes por defecto */
-    display: flex;  /* Utiliza flexbox para la disposición de los elementos */
-    flex-direction: column;  /* Organiza los elementos hijos en una columna */
+    background: url(imagenes/fondo.jpg) no-repeat fixed center center / cover; /* Fondo con imagen */
+    height: 100vh; /* Altura de la ventana */
+    margin: 0; /* Elimina márgenes */
+    display: flex; /* Usa Flexbox para el layout */
+    flex-direction: column; /* Organiza los elementos de arriba hacia abajo */
 }
 
 h1 {
