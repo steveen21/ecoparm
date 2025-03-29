@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'ecoparmv2.urls'
+ROOT_URLCONF = 'ecoparm.urls'
 
 TEMPLATES = [
     {
@@ -69,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'ecoparmv2.wsgi.application'
+WSGI_APPLICATION = 'ecoparm.wsgi.application'
 
 
 # Database
